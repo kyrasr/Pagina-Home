@@ -1,0 +1,53 @@
+
+div.general{
+    background-color: #FFE4C4;;
+    padding-bottom: 1px;
+}
+div.primero{
+    text-align: center;
+    background-color: #ADD8E6;
+}
+div.vacio{
+    padding-bottom: 5em;
+}
+div.foto{
+    color: blue;
+    background-color: white;
+}
+div.foto2{
+    background-color: #99ddff;
+}
+div.general2{
+    background-color: blue;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+img.ig1{
+float: left;
+}
+img.ig2{
+    float: right;
+    width: 15%;
+}
+p.rojo{
+    background-color: red;
+    padding-top: 1em;
+}
+p.logo{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    background-color: #FFE4C4;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+div.servicio{
+    color: blue;
+}
+ul{
+    list-style: circle;
+}
+ol{
+    list-style: decimal;
+}
